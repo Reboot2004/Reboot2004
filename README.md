@@ -44,7 +44,6 @@
 
 ## 📈 GitHub Stats
 
-![Reboot2004's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reboot2004&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reboot2004&layout=compact&theme=radical)
 
 ---
